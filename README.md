@@ -1,3 +1,3 @@
 # AIMA-Javascript
 
-Javascript implementations of pseudocode Artificial Intelligence - A Modern Approach
+Javascript implementations of pseudocode found in Artificial Intelligence - A Modern Approach
